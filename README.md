@@ -1,10 +1,10 @@
 # liqi
 1. Bright Hacker
    1. Clone the repository:
-> git clone https://github.com/hoangmanhkhiem/draw-luffy-with-svg.git
+> git clone https://github.com/NgcHue/liqi
 
 2. Change into the project directory:
-> cd draw-luffy-with-svg
+> cd draw-bright-with-svg
 
 3. Create a virtual environment:
 > py -m venv venv
