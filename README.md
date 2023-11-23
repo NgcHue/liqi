@@ -4,7 +4,7 @@
 > git clone https://github.com/NgcHue/liqi
 
 2. Change into the project directory:
-> cd draw-bright-with-svg
+> cd liqi
 
 3. Create a virtual environment:
 > py -m venv venv
